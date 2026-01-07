@@ -1,6 +1,6 @@
 # About This GitHub Organization
 
-This organization is for the Fall 2025 delivery of **CPSC-1520** in the Digital Media and IT (*DMIT*) program at NAIT. To access the members-only resources, you need to be logged into GitHub.
+This organization is for the **DMIT-2008** course in the Digital Media and IT (*DMIT*) program at NAIT. To access the members-only resources, you need to be logged into GitHub.
 
 ## New Students
 
